@@ -1,0 +1,11 @@
+myenv/
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+myenv/
+.env
+.DS_Store
